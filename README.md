@@ -15,6 +15,22 @@
 ## ![Vector (5)](https://github.com/soumizde/Mindflow/assets/104732379/b8954409-5cd8-4949-bb29-34ee3914dc74) Features 
 
 ## ![Vector (4)](https://github.com/soumizde/Mindflow/assets/104732379/c8a8ba9b-0575-47fe-9af0-8245884576b8) Run Locally
+1. Clone the Project Repository 
+
+<pre><code>$ git clone https://github.com/your-username/your-repo-name.git</code></pre>
+
+This command should create a local copy of the project on your machine.
+
+2. Change directories into the project
+
+<pre><code>$ cd MindFlow</code></pre>
+
+3. Install dependencies
+
+<pre><code>$ yarn install</code></pre>
+<pre><code>$ yarn start</code></pre>
+   
+* Use an emulator (Android Studio) to get live preview of the application
 
 ## ![Frame 2](https://github.com/soumizde/Mindflow/assets/104732379/65f3141d-ec10-40a6-a378-df7ff45e6bcc)Softwares Used
 
@@ -23,6 +39,7 @@
 We had an amazing time creating this project and if this helps you out, let us know. We would love to hear from you. If you run into an issue, we would want to help you out to. Reach out to us directly:
 
 Soumi De: soumizde@gmail.com
+
 
 
  
