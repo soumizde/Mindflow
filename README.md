@@ -14,8 +14,6 @@
 
 ## ![Vector (5)](https://github.com/soumizde/Mindflow/assets/104732379/b8954409-5cd8-4949-bb29-34ee3914dc74) Features 
 
-![21 (1)](https://github.com/swap019/Mindflow/assets/104732379/de7c51ec-7181-4f81-9078-5cdfdb202312)
-
 ## ![Vector (4)](https://github.com/soumizde/Mindflow/assets/104732379/c8a8ba9b-0575-47fe-9af0-8245884576b8) Run Locally
 
 ## ![Frame 2](https://github.com/soumizde/Mindflow/assets/104732379/65f3141d-ec10-40a6-a378-df7ff45e6bcc)Softwares Used
