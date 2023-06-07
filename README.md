@@ -8,23 +8,23 @@
 
 ![22 (1)](https://github.com/swap019/Mindflow/assets/104732379/56060850-2110-49b4-8978-ed968b128be3)
 
-## Eisen Matrix
+## ![carbon_scatter-matrix (1)](https://github.com/soumizde/Mindflow/assets/104732379/9aa5d0e6-8c62-481d-a1ce-e54649385087) Eisenhower Decision Matrix
 
 ![26](https://github.com/swap019/Mindflow/assets/104732379/171b1a8a-580a-4ef7-996c-da33d64df615)
 
-## Features 
+## ![Vector (5)](https://github.com/soumizde/Mindflow/assets/104732379/b8954409-5cd8-4949-bb29-34ee3914dc74) Features 
 
 ![21 (1)](https://github.com/swap019/Mindflow/assets/104732379/de7c51ec-7181-4f81-9078-5cdfdb202312)
 
-## Run Locally
+## ![Vector (4)](https://github.com/soumizde/Mindflow/assets/104732379/c8a8ba9b-0575-47fe-9af0-8245884576b8) Run Locally
 
-## Softwares Used
+## ![Frame 2](https://github.com/soumizde/Mindflow/assets/104732379/65f3141d-ec10-40a6-a378-df7ff45e6bcc)Softwares Used
 
 
 ## ![Vector](https://github.com/swap019/Mindflow/assets/104732379/56a0fb9c-d565-44b1-9e42-6ba29fbfe446) Get in Touch
 We had an amazing time creating this project and if this helps you out, let us know. We would love to hear from you. If you run into an issue, we would want to help you out to. Reach out to us directly:
 
-Soumi: soumizde@gmail.com
+Soumi De: soumizde@gmail.com
 
 
  
