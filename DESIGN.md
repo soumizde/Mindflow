@@ -6,4 +6,8 @@ The app was designed to be to the point. The interface is intuitive and easy to 
 
 ### Stretch Goals & Future Additions
 
-We want to eventually add a progress tracker and a scrore streak to allow some amount of gamification in the task manager. It should make things more interesting and make people more consistent in the long run. We are open to suggestions and would love to collaborate if anyone has any implementation ideas :) 
+We have spent a lot of time and effort in trying to design and develop an application that really fulfils the needs of someone on the lookout for a Task Manager and prioritizer. That said, we know that there is always room for improvement and we have a few things in mind that we do want in the near or distant future. 
+
+![31](https://github.com/soumizde/Mindflow/assets/104732379/e6ad6f03-5af3-47ac-a34f-5a1bfd09b00a)
+
+### We are open to suggestions and would love to collaborate if anyone has any implementation ideas. Do reach out to us. We will be more than happy to hear you out :) 
