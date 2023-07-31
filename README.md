@@ -54,7 +54,7 @@ This command should create a local copy of the project on your machine.
 We had an amazing time creating this project and if this helps you out, let us know. We would love to hear from you. If you run into an issue, we would want to help you out to. Reach out to us directly:
 
 Soumi De: soumizde@gmail.com
-
+Sourav Paul: souravpaul.bio@gmail.com
 
 
  
